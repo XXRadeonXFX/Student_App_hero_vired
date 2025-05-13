@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/mohanDevOps-arch/Student_App.git'
+                git 'https://github.com/XXRadeonXFX/Student_App_hero_vired.git'
             }
         }
 
